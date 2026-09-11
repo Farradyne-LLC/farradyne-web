@@ -5,3 +5,5 @@ out/
 .sites-runtime/
 *.tsbuildinfo
 .env*
+
+.vercel
