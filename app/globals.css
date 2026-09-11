@@ -127,10 +127,10 @@ svg {
   flex-shrink: 0;
   width: 36px;
   aspect-ratio: 295/252;
-  background-image: url("/brand-reference.png");
-  background-size: 490.847% 430.952%;
-  background-position: 52.47% 18.945%;
-  mix-blend-mode: multiply;
+  background-image: url("/farradyne-mark.svg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .desktop-nav {
   display: flex;

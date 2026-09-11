@@ -267,7 +267,7 @@ export default function Home() {
               what’s <span>next.</span>
             </h1>
             <p className="hero-description">
-              A technology venture studio building AI systems, digital products
+              A Los Angeles–based technology venture studio building AI systems, digital products
               and creative experiences for ambitious businesses.
             </p>
             <div className="actions">
@@ -463,7 +463,7 @@ export default function Home() {
             <div className="founder-identity">
               <span className="eyebrow">06 / Founder</span>
               <div className="founder-monogram">
-                FK<span>Los Angeles, California</span>
+                FI<span>Based in Los Angeles, California</span>
               </div>
               <a
                 href="https://www.linkedin.com/in/anklfara/"
@@ -471,7 +471,7 @@ export default function Home() {
                 rel="noopener noreferrer"
                 className="text-link"
               >
-                Farukh Khalpetov <Arrow diagonal />
+                Farukh Imin <Arrow diagonal />
               </a>
             </div>
             <div className="founder-copy">
@@ -481,7 +481,7 @@ export default function Home() {
                 Operator-minded.
               </h2>
               <p>
-                Farradyne was founded by Farukh Khalpetov, an entrepreneur and
+                Farradyne was founded by Farukh Imin, an entrepreneur and
                 digital producer with more than eight years of experience across
                 game development, technology, startups, retail and media.
               </p>

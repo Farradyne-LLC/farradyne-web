@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 256" fill="none">
+  <title>Farradyne</title>
+  <defs>
+    <linearGradient id="top" x1="18" y1="91" x2="290" y2="10" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0736DF"/>
+      <stop offset=".34" stop-color="#006CFF"/>
+      <stop offset=".75" stop-color="#00BCD9"/>
+      <stop offset="1" stop-color="#00E5D8"/>
+    </linearGradient>
+    <linearGradient id="middle" x1="5" y1="218" x2="212" y2="98" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5FF18B"/>
+      <stop offset=".32" stop-color="#17D6AF"/>
+      <stop offset=".61" stop-color="#00A7D5"/>
+      <stop offset="1" stop-color="#00E4DC"/>
+    </linearGradient>
+    <linearGradient id="tail" x1="7" y1="248" x2="89" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7BF665"/>
+      <stop offset=".5" stop-color="#35DD7F"/>
+      <stop offset="1" stop-color="#00BCA0"/>
+    </linearGradient>
+    <linearGradient id="fold" x1="5" y1="200" x2="92" y2="163" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C5FFD2" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#C5FFD2" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#C5FFD2" stop-opacity=".2"/>
+    </linearGradient>
+  </defs>
+  <path d="M12 114 37 57C53 20 79 3 113 3H297L278 36C264 62 244 72 211 72H104C69 72 37 86 12 114Z" fill="url(#top)"/>
+  <path d="M3 254C3 211 7 170 25 140 44 108 74 95 106 95H225L207 126C193 152 173 162 143 162H92C63 158 38 165 20 183 7 198 3 221 3 254Z" fill="url(#middle)"/>
+  <path d="M3 254C3 225 4 204 20 183 37 163 62 158 92 163L80 198C68 230 40 251 3 254Z" fill="url(#tail)"/>
+  <path d="M5 218C8 184 38 156 92 163" stroke="url(#fold)" stroke-width="2"/>
+</svg>

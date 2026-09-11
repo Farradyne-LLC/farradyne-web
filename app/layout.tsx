@@ -7,8 +7,10 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Farradyne — Designed for Progress.",
   description:
-    "A technology venture studio building AI systems, digital products, games and creative experiences for businesses and founders across the U.S.",
-  robots: { index: false, follow: false },
+    "A Los Angeles–based technology venture studio building AI systems, digital products, games and creative experiences for businesses and founders across the U.S.",
+  metadataBase: new URL("https://farradyne.com"),
+  alternates: { canonical: "https://farradyne.com" },
+  robots: { index: true, follow: true },
 };
 export default function RootLayout({
   children,
